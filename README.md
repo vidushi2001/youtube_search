@@ -18,6 +18,4 @@ The api calls itself again in 10 minutes to fetch the latest videos by using the
 #Search Bar Layout
 
 
-![alt text](https://github.com/vidushi2001/youtube_search/blob/main/search%20bar%20(2).png
-
-)
+![alt text](https://github.com/vidushi2001/youtube_search/blob/main/search%20bar%20(2).png)
