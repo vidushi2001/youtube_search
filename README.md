@@ -22,11 +22,18 @@ The api calls itself again in 10 minutes to fetch the latest videos by using the
 
 #How to run?
 step 1--> load the project in your preferred ide
+
 step 2--> Install django on your terminal using the following command
+
                 pip install django
+                
 step 3--> navigate to the directory of project in your terminal ,in this case it happens to be    youtube_search
+
                 cd youtube search
+                
 step 4--> run the following command:
+
                 python manage.py runserver
+                
 step 5--> open the local part that shows up in the terminal i.e. http://127.0.0.1:8000/                
                 
