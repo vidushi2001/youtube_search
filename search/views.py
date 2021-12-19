@@ -54,7 +54,7 @@ def index(request):
             }       
     return render(request,'search/index.html',context)
 # Making the api call every 10 minutes    
-schedule.every(10).minutes.do(index)
+schedule.every(1).minutes.do(index)
 
 # To run the tasks inn a blocking manner
 while True:
